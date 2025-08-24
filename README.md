@@ -14,13 +14,13 @@ Access the live website here:
 (https://cloudwebsitest.z30.web.core.windows.net/)
 
 ## Screenshots
-![Azure Portal](Images/StorageAccount.png)  
+![Azure Portal](Images/Storage%20Account.png)  
 *Azure Storage account dashboard*
 
-![Uploaded Files](Images/WebContainer.png)  
+![Uploaded Files](Images/Web%20Container.png)  
 *Website files uploaded to $web container*
 
-![Live Website](Images/StaticWebsite.png)  
+![Live Website](Images/Static%20Website.png)  
 *Live website preview*
 
 ## How to Use
