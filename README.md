@@ -1,2 +1,2 @@
-# azure_static_website
+# Azure_static_website
 My Azure Blob Storage Static Website project.
